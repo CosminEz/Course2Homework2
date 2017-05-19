@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF99CC00</color>
+    <color name="colorHeader">#00BCD4</color>
+    <color name="colorHint">#B6B6B6</color>
+    <color name="colorUniversitate">#000000</color>
+    <color name="colorButton">#FF4081</color>
+    <color name="colorSalveaza">#FFFFFF</color>
+</resources>
